@@ -1,19 +1,19 @@
 # GPUs-based-Tic-Tac-Toe-Game-Project-Public-Code-Issues-Pull-requests-Actions-Projects
 
 # Game Description: Tic-Tac-Toe
-1. Introduction
+# 1. Introduction
 Tic-Tac-Toe, also known as Noughts and Crosses (O and X), is a two-player strategy game played on a simple 3×3 grid. Despite its simplicity, it demonstrates fundamental concepts of game theory, strategy optimization, and decision-making. It is widely used in computer science as a beginner’s example of algorithms such as minimax and game tree search.
 
-2. Objective of the Game
+# 2. Objective of the Game
 The main goal is:
 
-# To place three of your marks (X or O) in a row on the grid.
+ To place three of your marks (X or O) in a row on the grid.
 
 The row can be horizontal, vertical, or diagonal.
 
 If all 9 cells are filled without either player achieving three in a row, the game ends in a draw.
 
-3. Rules of Play
+# 3. Rules of Play
 The game board is a 3×3 square grid (9 cells).
 
 # Two players take turns:
